@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="company_name">Jollibee Food Corporation</string>
+    <string name="company_desc">Philippines-based chain known for its burgers, fried chicken, spaghetti and Filipino dishes.</string>
+    <string name="location_label">Address: </string>
+    <string name="location_name">304 Orchard Road, Lucky Plaza, Singapore</string>
+    <string name="phone_label">Phone Number: </string>
+    <string name="phone_value">6737 8041</string>
+    <string name="company_website">www.jollibee.com.ph</string>
+</resources>
